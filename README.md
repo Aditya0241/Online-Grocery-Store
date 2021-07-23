@@ -9,8 +9,13 @@ orders and transactions, and cart items
 TECHNOLOGIES USED:
 
 Front-end Languages: HTML, CSS, and Client-Side JavaScript Front-end Framework:
+
 Bootstrap Front-end Library: j-Query
+
 Back-end: Server-Side JavaScript
+
 Back-end Framework: Node JS and NPM
+
 Database: MongoDB
+
 Tools: MS Visual Code, MS Command Panel
